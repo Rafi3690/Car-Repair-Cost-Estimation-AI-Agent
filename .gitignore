@@ -1,0 +1,5 @@
+.venv/
+image_database/
+.env
+main
+image.py

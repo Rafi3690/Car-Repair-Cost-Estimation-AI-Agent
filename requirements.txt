@@ -1,0 +1,14 @@
+pandas
+python-dotenv
+langchain==0.3.27
+langchain-core==0.3.75
+langchain-community
+langchain-experimental
+langchain_deepseek
+langchain_huggingface
+sentence-transformers
+faiss-cpu
+# tesseract-ocr
+serpapi
+# duckduckgo-search
+ddgs
